@@ -6,7 +6,11 @@
   
   
   
-
+## Required packages
+Run the following command to install the required packages.
+```bash
+pip install -r requirements.txt
+```
 
 ### pattern48
 
@@ -29,6 +33,7 @@ result that need to be displayed:
 0,1,1,2,3,5,8,13,21,34,55,89,144
 
 ### cezar
+
 
 
 
